@@ -1,4 +1,4 @@
 Tiny-IoC
 ========
 
-a simple implementation of an IoC container in C#
+a simple implementation of an IoC container in Java
