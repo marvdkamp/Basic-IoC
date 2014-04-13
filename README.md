@@ -1,4 +1,4 @@
 Basic-IoC
 ========
 
-a simple implementation of an IoC container in Java
+a basic implementation of an IoC container in Java
