@@ -1,4 +1,4 @@
-Tiny-IoC
+Basic-IoC
 ========
 
 a simple implementation of an IoC container in Java
